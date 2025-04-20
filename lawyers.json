@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Nayeem Rahman",
+    "expertise": "Criminal Law",
+    "license_no": "BDL-2025-0147",
+    "experience_years": "7+ Years Experience",
+    "status": "Available",
+    "availability": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "consultation_fee_taka": 1500,
+    "image_url": "https://justatic.com/profile-images/1496269-1447099185-s.jpg"
+  },
+  {
+    "name": "Farhana Kabir",
+    "expertise": "Family Law",
+    "license_no": "BDL-2023-0098",
+    "experience_years": "5 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "consultation_fee_taka": 1200,
+    "image_url": "https://www.steptoe-johnson.com/wp-content/uploads/2023/03/Bombard-Cutright-Office.jpg"
+  },
+  {
+    "name": "Tanvir Hossain",
+    "expertise": "Corporate Law",
+    "license_no": "BDL-2020-0033",
+    "experience_years": "10+ Years Experience",
+    "status": "Available",
+    "availability": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "consultation_fee_taka": 2000,
+    "image_url": "https://www.jenner.com/a/web/iD15DSKWr9gbiFnis6jez9/4HNVqh/fuhrimann_florian_env-web.jpg"
+  },
+  {
+    "name": "Sharmin Akter",
+    "expertise": "Immigration Law",
+    "license_no": "BDL-2024-0112",
+    "experience_years": "6 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Monday",
+      "Thursday",
+      "Saturday"
+    ],
+    "consultation_fee_taka": 1800,
+    "image_url": "https://www.steptoe-johnson.com/wp-content/uploads/2023/04/Henderson-Kelly-Office.jpg"
+  },
+  {
+    "name": "Mahmudul Hasan",
+    "expertise": "Property Law",
+    "license_no": "BDL-2022-0171",
+    "experience_years": "4 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Tuesday",
+      "Friday"
+    ],
+    "consultation_fee_taka": 1100,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7VSclkcPdX8Fy0qiNg-Vl8YyjxVVfNFplV_QGMHkets9fjBSDUP--VW-IIz-Q2G5nWA&usqp=CAU"
+  },
+  {
+    "name": "Razia Sultana",
+    "expertise": "Environmental Law",
+    "license_no": "BDL-2021-0056",
+    "experience_years": "8 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Sunday",
+      "Wednesday"
+    ],
+    "consultation_fee_taka": 1700,
+    "image_url": "https://www.jenner.com/a/web/o9UkjL3J18yDGH6S797rpz/7z4jJh/spira_kirsten_env-web.jpg"
+  },
+  {
+    "name": "Sakib Ahmed",
+    "expertise": "Tax Law",
+    "license_no": "BDL-2019-0029",
+    "experience_years": "9 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Monday",
+      "Thursday"
+    ],
+    "consultation_fee_taka": 1600,
+    "image_url": "https://www.mcinnescooper.com/content/uploads/2020/10/Block-David-Wallace-crop-1662984269-374x400.jpg"
+  },
+  {
+    "name": "Tahmina Islam",
+    "expertise": "Labor Law",
+    "license_no": "BDL-2025-0193",
+    "experience_years": "3 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Tuesday",
+      "Friday",
+      "Saturday"
+    ],
+    "consultation_fee_taka": 1000,
+    "image_url": "https://millershah.com/wp-content/uploads/2019/03/Jayne-Goldstein-bio.jpg"
+  },
+  {
+    "name": "Fahim Chowdhury",
+    "expertise": "Civil Litigation",
+    "license_no": "BDL-2020-0085",
+    "experience_years": "6+ Years Experience",
+    "status": "Available",
+    "availability": [
+      "Sunday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "consultation_fee_taka": 1400,
+    "image_url": "https://media.chambers.com/individuals/3284681/1e7608e3-d8c6-4b04-baaf-e5c318434c54/profile.png"
+  },
+  {
+    "name": "Lubna Rahman",
+    "expertise": "Intellectual Property Law",
+    "license_no": "BDL-2023-0144",
+    "experience_years": "5+ Years Experience",
+    "status": "Available",
+    "availability": [
+      "Monday",
+      "Thursday"
+    ],
+    "consultation_fee_taka": 1900,
+    "image_url": "https://media.chambers.com/individuals/3277986/75d3b3e3-7cb1-42a8-8a2d-a2fdd551c5fc/profile.png"
+  },
+  {
+    "name": "Imran Haque",
+    "expertise": "Banking and Finance Law",
+    "license_no": "BDL-2018-0060",
+    "experience_years": "11 Years Experience",
+    "status": "Available",
+    "availability": [
+      "Sunday",
+      "Tuesday",
+      "Friday"
+    ],
+    "consultation_fee_taka": 2100,
+    "image_url": "https://justatic.com/profile-images/1558895-1661273572-s.jpeg"
+  },
+  {
+    "name": "Nazneen Alam",
+    "expertise": "Cyber Law",
+    "license_no": "BDL-2024-0166",
+    "experience_years": "4+ Years Experience",
+    "status": "Available",
+    "availability": [
+      "Wednesday",
+      "Friday"
+    ],
+    "consultation_fee_taka": 1300,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSmby6ouv1poG6gYouG5J7DqXr4OZWmltFQ&s"
+  }
+]
